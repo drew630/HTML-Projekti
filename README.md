@@ -1,0 +1,1 @@
+Ohjelmiston aloitussivu, jossa esitellään ohjelmiston pääominaisuuksia, kuten: tehokkuus, integraatio ja luotettavuus. Aloitussivulta voi myös saada lisätietoja ohjelmistosta, "learn more" kohdasta. Sivulta löytyy tietenkin myös valikko, josta löytyy "Home", "About" ja "Contact".
