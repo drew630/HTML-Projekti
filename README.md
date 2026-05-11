@@ -1,0 +1,1 @@
+Pelisivusto, johon tulee 3 eri peliä. Sisältää tietenkin etusivun ja kirjautumis-sivun. Sivustolle on kirjauduttava pelataakseen, muuten näytölle ilmestyy virheviesti, jossa sanotaan: virhe, sinun on kirjauduttava, jotta voit pelata.

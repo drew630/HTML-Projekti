@@ -1,0 +1,50 @@
+body {
+    background-color: #121212; 
+    color: white; 
+    margin: 0; 
+    font-family: sans-serif; 
+    text-align: center; 
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+form {
+    margin-top: 50px;
+    display: inline-block;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.header {
+    height: 60px;
+    padding: 20px;
+    border-bottom: 2px solid cyan;
+}
+
+.logo { float: left; }
+.nav-links { float: right; }
+.nav-links a { color: cyan; margin-left: 15px; text-decoration: none; }
+
+.main-banner {
+    height: 400px;
+    padding-top: 100px;
+    border-bottom: 2px solid magenta;
+}
+
+.content-section {
+    height: 200px;
+    border-bottom: 2px solid lime;
+    padding-top: 40px;
+}
+
+.footer {
+    padding: 30px;
+    color: gray;
+}
