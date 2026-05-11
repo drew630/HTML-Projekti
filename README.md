@@ -1,1 +1,1 @@
-Ohjelmiston aloitussivu, jossa esitellään ohjelmiston pääominaisuuksia, kuten: tehokkuus, integraatio ja luotettavuus. Aloitussivulta voi myös saada lisätietoja ohjelmistosta, "learn more" kohdasta. Sivulta löytyy tietenkin myös valikko, josta löytyy "Home", "About" ja "Contact".
+Pelisivusto, johon tulee 3 eri peliä. Sisältää tietenkin etusivun ja kirjautumis-sivun. Sivustolle on kirjauduttava pelataakseen, muuten näytölle ilmestyy virheviesti, jossa sanotaan: virhe, sinun on kirjauduttava, jotta voit pelata.
