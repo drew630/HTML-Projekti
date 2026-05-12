@@ -2,7 +2,9 @@ body {
     background-color: #121212;
     color: white;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    letter-spacing: -0.01em;
+    line-height: 1.6;
     text-align: center;
 }
 
@@ -22,7 +24,9 @@ body {
     border-bottom: 2px solid magenta;
 }
 
-.main-banner h1 { font-size: 50px; }
+.main-banner h1 { 
+    font-size: 50px;
+}
 
 .content-section {
     height: 500px;
@@ -44,4 +48,3 @@ body {
     padding: 30px;
     color: gray;
 }
-
