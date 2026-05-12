@@ -48,3 +48,16 @@ label {
     padding: 30px;
     color: gray;
 }
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 4px solid transparent;
+    background-image: 
+        linear-gradient(cyan, magenta), 
+        linear-gradient(to bottom, cyan 50%, magenta 50%);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    border-radius: 5px;
+}
